@@ -1,5 +1,8 @@
-Noms des membres de l'équipe:
+Noms des membres de l'équipe SEG:
 1. Mélina Rochon
 2. Caterina Bosi
 3. Kaveri Yeten
 4. Amani Louendriz
+
+Ceci est un message.
+
