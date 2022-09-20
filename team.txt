@@ -1,10 +1,6 @@
 Noms des membres de l'équipe:
 1. Caterina Bosi
 2. Kaveri Yeten
-<<<<<<< HEAD
-3. 
+3. Mélina Rochon
 4. Amani Louendriz
-=======
-3. Mélina Rochon 
-4. 
->>>>>>> 21d09f74f5fa2b498afc2850fe9cb204f8e1e057
+
